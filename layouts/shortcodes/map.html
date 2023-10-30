@@ -1,0 +1,10 @@
+<div id="map" style="height: 300px;"></div>
+<script>
+  var map = L.map('map').setView([33.59402,-101.87504], 15);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 19,
+  }).addTo(map);
+  L.marker([33.59402,-101.87504]).addTo(map)
+    .bindPopup("2717 3rd Street, Lubbock, TX 79415")
+    .openPopup();
+</script>

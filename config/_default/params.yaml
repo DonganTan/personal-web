@@ -25,9 +25,9 @@ address:
   postcode: '79415'
   country: United States
   country_code: US
-coordinates:
-  latitude: '32.23118233154193'
-  longitude: '-110.95408849910685'
+coordinates: 
+  latitude: '33.59402'
+  longitude: '-101.87504'
 
 # Site header
 

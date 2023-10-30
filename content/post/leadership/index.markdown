@@ -12,7 +12,7 @@ lastMod: "2023-09-28T00:00:00Z"
 projects: []
 subtitle: ''  
 
-summary: "This paper employs a two-stage difference-in-differences estimator to examine the causal effect of economic sanctions on political stability. Empirical findings from 2,951 country-year observations between 1996 and 2020 strongly support the theory, highlighting the destabilizing effect of economic sanctions on political stability, especially in democratic and low-globalized nations."
+summary: "This paper explores how political leaders with prior military experience are more inclined to use economic sanctions in their foreign policy decisions."
 
 tags:
 - Economic Sanctions
