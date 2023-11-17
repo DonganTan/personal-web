@@ -1,5 +1,4 @@
 ---
-bio: My research applies...
 education:
   courses:
   - course: PhD in Political Science
