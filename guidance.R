@@ -44,7 +44,7 @@ content
 
 # show map of address
 a. Visit OpenStreetMap Nominatim Geocoding Service: https://nominatim.openstreetmap.org.
-b. In the search bar, enter your address, "2717 3rd Street, Lubbock, TX 79415."
+b. In the search bar, enter your address, "113 Holden Hall, Boston & Akron Streets, Lubbock, TX 79415"
 c. Click the "Search" button.
 d. The service will return the latitude and longitude coordinates for the address. Take note of these coordinates.
 e. change the coordinates in map.html under layouts/shortcodes
