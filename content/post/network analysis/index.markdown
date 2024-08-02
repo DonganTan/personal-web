@@ -2,7 +2,7 @@
 ---
 authors:
 - admin
-categories: Conference Paper
+categories: Under Review
 date: "2023-10-29T00:00:00Z"
 image:
   caption: ""
@@ -25,5 +25,5 @@ weight: 1
 
 ## Abstract
 
-This paper investigates how economic sanctions affect international trade using a network analysis approach. At the global level, as the number of economic sanctions increases, the density of the global trade network will decrease due to the increased uncertainty and risk of international economic conditions, and the asymmetry of the global trade network will increase due to the emergence of two competing groups on the sender's and target's sides of the global market. At the national level, economic sanctions, designed to restrict the target's international transactions, will increase the inherent uncertainty and risk regarding the security and profitability of trading with the target, thereby reducing the target's trade ties with other nations. Moreover, the negative effects of sanctions on the target's trade ties become more sizable as the target's political stability deteriorates. The sample includes bilateral trade flows between 162 countries from 1950 to 2014. Empirical findings are largely consistent with the national expectations but not the global ones. Sanctioned nations tend to have lower scores for their trade network's degree, closeness, and betweenness than non-sanctioned states, and the negative impact of sanctions on the closeness and betweenness of trade networks is greater in democratic nations than in autocratic nations.
+This study investigates the impact of economic sanctions on a target country’s global trade using network analysis. It contributes to existing literature by (1) capturing the complexity of trade relationships beyond conventional bilateral trade flows, and (2) quantifying a country’s position and influence in international trade. Economic sanctions disrupt the target’s trade network by undermining its partnerships, reachability, and bridging capacity. They reduce the target’s trade partners by limiting market access and deterring potential partners due to fear of retaliation. Disrupted trade routes lead to delays, rerouting, and increased logistical expenses, diminishing the target’s reachability. Sanctions also erode trust and demand among reliant countries, reducing the target’s bridging role. Empirical findings from 158 countries between 1950 and 2014 strongly support this theory. A case study of Iran illustrates that while the initial repercussions of sanctions are substantial, the target can employ strategies to mitigate their long-term impact.
 
