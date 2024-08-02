@@ -3,7 +3,7 @@ education:
   courses:
   - course: PhD in Political Science
     institution: Texas Tech University
-    year: Expected May 2024
+    year: Expected May 2025
   - course: MA in Public Administration
     institution: Huazhong University of Science & Technology
     year: 2018
