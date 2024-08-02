@@ -20,7 +20,7 @@ content:
     folders:
       - workingpapers
     tag: ''
-    category: Working Paper
+    category: ''
     publication_type: ''
     author: ''
     exclude_featured: false
