@@ -18,9 +18,9 @@ content:
   # Filter on criteria
   filters:
     folders:
-      - workingpapers
+      - post
     tag: ''
-    category: ''
+    category: Working Paper
     publication_type: ''
     author: ''
     exclude_featured: false
