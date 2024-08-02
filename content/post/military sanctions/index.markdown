@@ -3,7 +3,7 @@
 authors:
 - admin
 - Daehee Bak
-categories: Conference Paper
+categories: Working Paper
 date: "2023-10-05T00:00:00Z"
 image:
   caption: ""
