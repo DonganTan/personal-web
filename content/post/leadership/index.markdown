@@ -3,7 +3,7 @@
 authors:
 - admin
 - Yooneui Kim
-categories: Conference Paper
+categories: Working Paper
 date: "2023-10-12T00:00:00Z"
 image:
   caption: ""
