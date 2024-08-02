@@ -8,7 +8,7 @@ date: "2023-10-12T00:00:00Z"
 image:
   caption: ""
   focal_point: ""
-lastMod: "2023-09-28T00:00:00Z"
+lastMod: "2023-10-12T00:00:00Z"
 projects: []
 subtitle: ''  
 
@@ -21,7 +21,7 @@ tags:
 
 title: Political Leaders, Military Experience, and Use of Economic Sanctions
 
-weight: 2
+weight: 1
 ---
 
 ## Abstract
