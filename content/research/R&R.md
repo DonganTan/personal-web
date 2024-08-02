@@ -18,7 +18,7 @@ content:
   # Filter on criteria
   filters:
     folders:
-      - post
+      - R&R
     tag: ''
     category: Revise and Resubmit
     publication_type: ''
