@@ -8,7 +8,7 @@ date: "2023-10-20T00:00:00Z"
 image:
   caption: ""
   focal_point: ""
-lastMod: "2021-09-05T00:00:00Z"
+lastMod: "2023-10-05T00:00:00Z"
 projects: []
 subtitle: ''  
 
