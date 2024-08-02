@@ -18,7 +18,7 @@ content:
   # Filter on criteria
   filters:
     folders:
-      - post
+      - workingpapers
     tag: ''
     category: Working Paper
     publication_type: ''
