@@ -21,7 +21,7 @@ tags:
 
 title: Political Leaders, Military Experience, and Use of Economic Sanctions
 
-weight: 10
+weight: 1
 ---
 
 ## Abstract
