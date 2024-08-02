@@ -21,7 +21,7 @@ tags:
 
 title: Determinants of Military Sanctions
 
-weight: 1
+weight: 2
 ---
 
 ## Abstract
